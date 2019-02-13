@@ -16,17 +16,17 @@ namespace ModulBank.Models
         PREPAYMENT,
         
         /// <summary>
-        /// Составной предмет расчета
+        /// Аванс
         /// </summary>
         ADVANCE,
         
         /// <summary>
-        /// Аванс
+        /// Полный расчёт
         /// </summary>
         FULL_PAYMENT,
         
         /// <summary>
-        /// Полный расчет
+        /// Частичный расчет и кредит
         /// </summary>
         PARTIAL_PAYMENT,
         
@@ -36,7 +36,7 @@ namespace ModulBank.Models
         CREDIT,
         
         /// <summary>
-        /// Передача в кредит
+        /// Оплата кредита
         /// </summary>
         CREDIT_PAYMENT
     }
