@@ -31,7 +31,7 @@ namespace ModulBank.Models
         PARTIAL_PAYMENT,
         
         /// <summary>
-        /// Частичный расчет и кредит
+        /// Передача в кредит
         /// </summary>
         CREDIT,
         
